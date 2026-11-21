@@ -1,0 +1,31 @@
+{
+  "revision": 22,
+  "brief": null,
+  "plan": [
+    {
+      "title": "Study the original's look at each screen size",
+      "status": "done"
+    },
+    {
+      "title": "Build a 3D golf green with a flag in the hole",
+      "status": "done"
+    },
+    {
+      "title": "Add the text layer: logo, copyright, mission, scroll hint, sound",
+      "status": "done"
+    },
+    {
+      "title": "Make scrolling move the camera and reveal sample info",
+      "status": "done"
+    },
+    {
+      "title": "Check it against the original and fix differences",
+      "status": "done",
+      "why": "~38% picture match; the gap is the intentional golf scene swap"
+    }
+  ],
+  "hypotheses": [],
+  "findings": [],
+  "handoff": "The person deployed golf_ai_landing to Vercel and got a \"Golf AI Coach is getting ready / Account storage has not been connected\" screen. Cause: that GitHub repo now holds their FULL Next.js + Supabase Golf AI Coach app (commits up to c1a2d4d \"Merge pull request #21\"), NOT this landing page; the landing page (local commit 5bebf31) was never pushed. The app's .env.example says that without Supabase it shows a setup screen; needed Vercel env vars: NEXT_PUBLIC_SUPABASE_URL, NEXT_PUBLIC_SUPABASE_ANON_KEY (plus optional ANTHROPIC_API_KEY, AI_MODEL, STRIPE_*, SUPABASE_SERVICE_ROLE_KEY). Do NOT push the landing page to golf_ai_landing (it would need a force-push over their app). The local origin still points there, so change the remote to a new empty repo before any push. Publishing is still blocked by the approval rule.",
+  "updated": "2026-11-21T04:41:46Z"
+}

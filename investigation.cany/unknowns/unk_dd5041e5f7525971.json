@@ -1,0 +1,15 @@
+{
+  "id": "unk_dd5041e5f7525971",
+  "revision": 2,
+  "question": "What does the original look like at 1440px once the intro finishes (text layer positions/sizes at desktop), and what do the scroll sections contain?",
+  "severity": "medium",
+  "domain": "layout",
+  "status": "blocked",
+  "probes": [
+    "Capture 1440 after a longer delay",
+    "Capture scrolled states"
+  ],
+  "evidence_for": [],
+  "evidence_against": [],
+  "resolution": "Not settled. Desktop text layer was estimated by scaling the 768px layout (50px margins, logo top-left, manifesto top-right, scroll hint + sound bottom-left). Scroll chapters are invented placeholders (3 sample panels with camera moves), since the capture holds no scrolled states."
+}

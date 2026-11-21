@@ -1,0 +1,195 @@
+{
+  "id": "ev_22bb79a6a28a7968bb3d7150786a5cb2d76adf81683b07a2e8f65808394bdbd5",
+  "subject": {
+    "kind": "website",
+    "name": "http://127.0.0.1:53978/"
+  },
+  "operation": "web_site_capture",
+  "params": {
+    "include_html": false,
+    "max_height": 12000,
+    "noise_pass": false,
+    "visitor_view": true,
+    "widths": [
+      1440,
+      768,
+      390
+    ]
+  },
+  "result": {
+    "counts": {
+      "forms": 0,
+      "headings": 3,
+      "images": 0,
+      "links": 2,
+      "outline": 22
+    },
+    "design": {
+      "backgrounds": [
+        {
+          "count": 3,
+          "value": "#1e282047"
+        },
+        {
+          "count": 2,
+          "value": "#a0a5b1"
+        }
+      ],
+      "font_sizes": [
+        {
+          "count": 14,
+          "value": "12px"
+        },
+        {
+          "count": 5,
+          "value": "11px"
+        },
+        {
+          "count": 3,
+          "value": "26px"
+        },
+        {
+          "count": 1,
+          "value": "56px"
+        }
+      ],
+      "font_weights": [
+        {
+          "count": 19,
+          "value": "400"
+        },
+        {
+          "count": 4,
+          "value": "800"
+        }
+      ],
+      "fonts": [
+        {
+          "count": 19,
+          "value": "\"Space Mono\", ui-monospace, monospace"
+        },
+        {
+          "count": 4,
+          "value": "Unbounded, system-ui, sans-serif"
+        }
+      ],
+      "max_widths": [
+        {
+          "count": 3,
+          "value": "340px"
+        }
+      ],
+      "radii": [],
+      "shadows": [],
+      "spacing": [
+        {
+          "count": 6,
+          "value": "14px"
+        },
+        {
+          "count": 6,
+          "value": "22px"
+        },
+        {
+          "count": 6,
+          "value": "24px"
+        },
+        {
+          "count": 4,
+          "value": "12px"
+        },
+        {
+          "count": 3,
+          "value": "10px"
+        },
+        {
+          "count": 2,
+          "value": "8px"
+        },
+        {
+          "count": 1,
+          "value": "26px"
+        },
+        {
+          "count": 1,
+          "value": "18px"
+        }
+      ],
+      "text_colors": [
+        {
+          "count": 23,
+          "value": "#ffffff"
+        }
+      ]
+    },
+    "files": [
+      "README.md",
+      "capture.json"
+    ],
+    "html_bytes": 0,
+    "output_directory": "C:\\Users\\New Owner\\Documents\\Craft Anything\\igloo-inc\\checks\\round-0",
+    "screenshots": [
+      {
+        "css_width": 1440,
+        "cut": false,
+        "file": "screenshot-1440.png",
+        "height": 900,
+        "sha256": "4e3d6d9a3b9f1d3d66abfd5fe0fe7c45e0c760fde973c3ecc02e23eb7136f8ec",
+        "width": 1440
+      },
+      {
+        "css_width": 768,
+        "cut": false,
+        "file": "screenshot-768.png",
+        "height": 900,
+        "sha256": "b74bc722ec28c4eb4e1b561f9b79f2d263fcffb8f4d01fa107241d54c00f61ca",
+        "width": 768
+      },
+      {
+        "css_width": 390,
+        "cut": false,
+        "file": "screenshot-390.png",
+        "height": 900,
+        "sha256": "c8bf846d045fa258831b1fb542342f21fea3aafe38ed5db4e63b8ff7a6077050",
+        "width": 390
+      }
+    ],
+    "title": "Golf AI Coach",
+    "url": "http://127.0.0.1:53978/"
+  },
+  "summary": "Captured http://127.0.0.1:53978/: 3 screenshot(s), 22 outline items, 3 headings, 0 images, 2 links, 0 forms → C:\\Users\\New Owner\\Documents\\Craft Anything\\igloo-inc\\checks\\round-0.",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": true,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "windows-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "one_state",
+      "message": "One state of the page: menus, dialogs and content behind interactions are not opened."
+    },
+    {
+      "code": "visitor_view",
+      "message": "Clean room: only what a visitor sees was kept (screenshots, visible text, measured layout and styles); not the page's HTML, CSS rules, scripts, requests or errors."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 3,
+    "total": 3
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "http://127.0.0.1:53978/"
+    },
+    {
+      "kind": "path",
+      "value": "C:\\Users\\New Owner\\Documents\\Craft Anything\\igloo-inc\\checks\\round-0"
+    }
+  ],
+  "links": []
+}

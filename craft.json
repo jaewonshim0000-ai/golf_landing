@@ -1,0 +1,1104 @@
+{
+  "version": 5,
+  "name": "igloo.inc",
+  "request": "Can you recreate the design of this website and fit it for this golf app:https://golf-ai-coach-alpha.vercel.app/\n\nIt should not be igloo anymore but instead something that fits the app perfectly. Possibly a flag and a hole matching the golf vibe. Just write some gibberish for the information and ask me any question you need like name, what it is, etc.",
+  "target": {
+    "kind": "website",
+    "url": "https://www.igloo.inc/"
+  },
+  "stack": "React + TypeScript (Vite)",
+  "status": "ready",
+  "note": "Ready: you called it done. Everything so far is kept; a new message carries on from here.",
+  "created_ms": 1795216272219,
+  "updated_ms": 1795236733765,
+  "checks": [
+    {
+      "round": 1,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 38.01971062951309,
+      "note": "1440 px: 35% alike (layout 14%, detail 57%; page height 900 vs 900 px); 768 px: 43% alike (layout 26%, detail 60%; page height 900 vs 900 px); 390 px: 36% alike (layout 18%, detail 54%; page height 900 vs 900 px)",
+      "artifacts": [
+        "checks\\round-1\\screenshot-1440.png",
+        "checks\\round-1\\screenshot-768.png",
+        "checks\\round-1\\screenshot-390.png"
+      ],
+      "at_ms": 1795216600904,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 49.05339773348778,
+      "note": "1440 px: 37% alike (layout 22%, detail 51%; page height 900 vs 900 px); 768 px: 55% alike (layout 52%, detail 58%; page height 900 vs 900 px); 390 px: 55% alike (layout 59%, detail 52%; page height 900 vs 900 px)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795216701655,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 55.15535241723314,
+      "note": "1440 px: 49% alike (layout 42%, detail 57%; page height 900 vs 900 px); 768 px: 58% alike (layout 56%, detail 59%; page height 900 vs 900 px); 390 px: 59% alike (layout 63%, detail 54%; page height 900 vs 900 px)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795216804170,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 56.24948834220325,
+      "note": "1440 px: 52% alike (layout 48%, detail 56%; page height 900 vs 900 px); 768 px: 58% alike (layout 56%, detail 59%; page height 900 vs 900 px); 390 px: 59% alike (layout 64%, detail 54%; page height 900 vs 900 px)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795216930144,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 58.912836578151975,
+      "note": "1440 px: 58% alike (layout 56%, detail 60%; page height 900 vs 900 px); 768 px: 59% alike (layout 57%, detail 61%; page height 900 vs 900 px); 390 px: 60% alike (layout 65%, detail 55%; page height 900 vs 900 px)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795217013640,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 60.38890023574615,
+      "note": "1440 px: 61% alike (layout 63%, detail 60%; page height 900 vs 900 px); 768 px: 60% alike (layout 58%, detail 62%; page height 900 vs 900 px); 390 px: 60% alike (layout 62%, detail 57%; page height 900 vs 900 px)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795217047982,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 60.39908687018339,
+      "note": "1440 px: 62% alike (layout 63%, detail 60%; page height 900 vs 900 px); 768 px: 60% alike (layout 59%, detail 62%; page height 900 vs 900 px); 390 px: 59% alike (layout 62%, detail 56%; page height 900 vs 900 px)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795217099840,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 30.220336093809863,
+      "note": "1440 px: 31% alike (layout 3%, detail 59%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 58%; page height 900 vs 900 px); 390 px: 28% alike (layout 5%, detail 52%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795217718610,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 30.17015689911773,
+      "note": "1440 px: 31% alike (layout 3%, detail 59%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 58%; page height 900 vs 900 px); 390 px: 28% alike (layout 5%, detail 52%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795217781929,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 10,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 30.17015689911773,
+      "note": "1440 px: 31% alike (layout 3%, detail 59%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 58%; page height 900 vs 900 px); 390 px: 28% alike (layout 5%, detail 52%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795217781929,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 11,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 29.418239056460873,
+      "note": "1440 px: 30% alike (layout 2%, detail 57%; page height 900 vs 900 px); 768 px: 32% alike (layout 6%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795218582855,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 12,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 29.418239056460873,
+      "note": "1440 px: 30% alike (layout 2%, detail 57%; page height 900 vs 900 px); 768 px: 32% alike (layout 6%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795218582855,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 13,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 29.562107040322303,
+      "note": "1440 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 768 px: 30% alike (layout 4%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 50%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795218795962,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 14,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 29.43058519542249,
+      "note": "1440 px: 30% alike (layout 3%, detail 58%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 50%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795219080538,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 15,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 29.43058519542249,
+      "note": "1440 px: 30% alike (layout 3%, detail 58%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 50%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795219080538,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 16,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 29.43058519542249,
+      "note": "1440 px: 30% alike (layout 3%, detail 58%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 50%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795219080538,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 17,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.27147041691669,
+      "note": "1440 px: 27% alike (layout 1%, detail 53%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795220149230,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 18,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.123901933070844,
+      "note": "1440 px: 27% alike (layout 1%, detail 53%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 56%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795220190500,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 19,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.123901933070844,
+      "note": "1440 px: 27% alike (layout 1%, detail 53%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 56%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795220190500,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 20,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.123901933070844,
+      "note": "1440 px: 27% alike (layout 1%, detail 53%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 56%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795220190500,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 21,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.078387119654256,
+      "note": "1440 px: 27% alike (layout 1%, detail 53%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795220587329,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 22,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.078387119654256,
+      "note": "1440 px: 27% alike (layout 1%, detail 53%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795220587329,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 23,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.078387119654256,
+      "note": "1440 px: 27% alike (layout 1%, detail 53%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795220587329,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 24,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.057815966452196,
+      "note": "1440 px: 27% alike (layout 1%, detail 53%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795224884565,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 25,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.190624629948616,
+      "note": "1440 px: 27% alike (layout 1%, detail 53%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795225256649,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 26,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.190624629948616,
+      "note": "1440 px: 27% alike (layout 1%, detail 53%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795225256649,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 27,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.190624629948616,
+      "note": "1440 px: 27% alike (layout 1%, detail 53%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795225256649,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 28,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.43651426720397,
+      "note": "1440 px: 28% alike (layout 1%, detail 54%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795227226717,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 29,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.43651426720397,
+      "note": "1440 px: 28% alike (layout 1%, detail 54%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795227226717,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 30,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.43651426720397,
+      "note": "1440 px: 28% alike (layout 1%, detail 54%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795227226717,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 31,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.354308361734084,
+      "note": "1440 px: 27% alike (layout 1%, detail 54%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795228006310,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 32,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.354308361734084,
+      "note": "1440 px: 27% alike (layout 1%, detail 54%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795228006310,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 33,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.354308361734084,
+      "note": "1440 px: 27% alike (layout 1%, detail 54%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795228006310,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 34,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.354308361734084,
+      "note": "1440 px: 27% alike (layout 1%, detail 54%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795228006310,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 35,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.354308361734084,
+      "note": "1440 px: 27% alike (layout 1%, detail 54%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795228006310,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 36,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.354308361734084,
+      "note": "1440 px: 27% alike (layout 1%, detail 54%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795228006310,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 37,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.354308361734084,
+      "note": "1440 px: 27% alike (layout 1%, detail 54%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795228006310,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 38,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.354308361734084,
+      "note": "1440 px: 27% alike (layout 1%, detail 54%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795228006310,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 39,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.354308361734084,
+      "note": "1440 px: 27% alike (layout 1%, detail 54%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795228006310,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "round": 40,
+      "check": "web-visual",
+      "passed": true,
+      "similarity": 28.354308361734084,
+      "note": "1440 px: 27% alike (layout 1%, detail 54%; page height 900 vs 900 px); 768 px: 31% alike (layout 5%, detail 57%; page height 900 vs 900 px); 390 px: 27% alike (layout 5%, detail 49%; page height 900 vs 900 px); colours the original uses that the build doesn't: #a0a5b1 (background)",
+      "artifacts": [
+        "checks\\round-0\\screenshot-1440.png",
+        "checks\\round-0\\screenshot-768.png",
+        "checks\\round-0\\screenshot-390.png"
+      ],
+      "at_ms": 1795228006310,
+      "claims": [
+        {
+          "title": "The start page doesn't scroll sideways at 1440 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 768 px",
+          "passed": true
+        },
+        {
+          "title": "The start page doesn't scroll sideways at 390 px",
+          "passed": true
+        }
+      ]
+    }
+  ],
+  "agent_session": "e8ea9966-9816-4356-b319-ed49f1907c66",
+  "agent_session_by": "claude-code",
+  "agent_session_deep": false,
+  "capture_deep": false,
+  "allowed_actions": [],
+  "last_reply": "I made no changes this round, and the score is still about 28% alike. The only thing the check asks for is the original's grey background (#a0a5b1), and adding it would undo your app's colours.\n\nThe landing page still isn't online. For me to publish it, you'd need to create a new, empty GitHub repository for it and allow \"publish\" in this project's approvals; `golf_ai_landing` holds your app's code, so I won't push there. Still not compared with the original: its scrolled views and desktop text, which were never captured.",
+  "asset_budget_usd": 5.0,
+  "generate_assets": false
+}

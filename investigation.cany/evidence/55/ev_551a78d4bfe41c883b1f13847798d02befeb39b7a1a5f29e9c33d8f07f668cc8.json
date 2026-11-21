@@ -1,0 +1,57 @@
+{
+  "id": "ev_551a78d4bfe41c883b1f13847798d02befeb39b7a1a5f29e9c33d8f07f668cc8",
+  "subject": {
+    "kind": "website",
+    "name": "http://127.0.0.1:53398/"
+  },
+  "operation": "web_site_open",
+  "params": {
+    "height": 900,
+    "url": "http://127.0.0.1:53398/",
+    "width": 1440
+  },
+  "result": {
+    "browser": "Chrome/157.0.8103.79",
+    "facts": {
+      "forms": 0,
+      "height": 900,
+      "images": 0,
+      "lang": "en",
+      "links": 2,
+      "ready": "complete",
+      "title": "Golf AI Coach",
+      "url": "http://127.0.0.1:53398/",
+      "width": 1440
+    },
+    "health": null,
+    "title": "Golf AI Coach",
+    "url": "http://127.0.0.1:53398/"
+  },
+  "summary": "Opened http://127.0.0.1:53398/: \"Golf AI Coach\".",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": true,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "windows-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "private_profile",
+      "message": "A fresh private browser: pages behind a login show their signed-out state."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 1,
+    "total": 1
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "http://127.0.0.1:53398/"
+    }
+  ],
+  "links": []
+}

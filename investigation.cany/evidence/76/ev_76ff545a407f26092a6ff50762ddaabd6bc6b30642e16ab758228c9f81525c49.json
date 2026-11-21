@@ -1,0 +1,119 @@
+{
+  "id": "ev_76ff545a407f26092a6ff50762ddaabd6bc6b30642e16ab758228c9f81525c49",
+  "subject": {
+    "kind": "website",
+    "name": "https://www.igloo.inc/"
+  },
+  "operation": "web_site_capture",
+  "params": {
+    "include_html": false,
+    "max_height": 12000,
+    "noise_pass": true,
+    "visitor_view": true,
+    "widths": [
+      1440,
+      768,
+      390
+    ]
+  },
+  "result": {
+    "counts": {
+      "forms": 0,
+      "headings": 0,
+      "images": 0,
+      "links": 0,
+      "outline": 0
+    },
+    "design": {
+      "backgrounds": [
+        {
+          "count": 2,
+          "value": "#a0a5b1"
+        }
+      ],
+      "font_sizes": [],
+      "font_weights": [],
+      "fonts": [],
+      "max_widths": [],
+      "radii": [],
+      "shadows": [],
+      "spacing": [],
+      "text_colors": []
+    },
+    "files": [
+      "README.md",
+      "capture.json"
+    ],
+    "html_bytes": 0,
+    "output_directory": "C:\\Users\\New Owner\\Documents\\Craft Anything\\igloo-inc\\capture",
+    "screenshots": [
+      {
+        "css_width": 1440,
+        "cut": false,
+        "file": "screenshot-1440.png",
+        "height": 900,
+        "noise_file": "noise-1440.png",
+        "noise_tiles": 4574,
+        "sha256": "0f3ccabc27fb2e740a0536bbb9e7253a6425e29b28b3b322e5ff4545f8181739",
+        "width": 1440
+      },
+      {
+        "css_width": 768,
+        "cut": false,
+        "file": "screenshot-768.png",
+        "height": 900,
+        "noise_file": "noise-768.png",
+        "noise_tiles": 1608,
+        "sha256": "bf30582fcc1d6e5b0d8f78bd08fcb89d0667b55340f5318d2337803fffddff51",
+        "width": 768
+      },
+      {
+        "css_width": 390,
+        "cut": false,
+        "file": "screenshot-390.png",
+        "height": 900,
+        "noise_file": "noise-390.png",
+        "noise_tiles": 503,
+        "sha256": "3004f194db88eec20370ceb7fb8daa330dbb0551f3f708cff0de93601bf9c9de",
+        "width": 390
+      }
+    ],
+    "title": "Igloo Inc.",
+    "url": "https://www.igloo.inc/"
+  },
+  "summary": "Captured https://www.igloo.inc/: 3 screenshot(s), 0 outline items, 0 headings, 0 images, 0 links, 0 forms → C:\\Users\\New Owner\\Documents\\Craft Anything\\igloo-inc\\capture.",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": true,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "windows-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "one_state",
+      "message": "One state of the page: menus, dialogs and content behind interactions are not opened."
+    },
+    {
+      "code": "visitor_view",
+      "message": "Clean room: only what a visitor sees was kept (screenshots, visible text, measured layout and styles); not the page's HTML, CSS rules, scripts, requests or errors."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 3,
+    "total": 3
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "https://www.igloo.inc/"
+    },
+    {
+      "kind": "path",
+      "value": "C:\\Users\\New Owner\\Documents\\Craft Anything\\igloo-inc\\capture"
+    }
+  ],
+  "links": []
+}
